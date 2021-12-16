@@ -1,0 +1,7 @@
+#Thu Dec 16 09:57:49 COT 2021
+configuration*?=F4ED77DC47A85FEECE6B524314DE049E3B6EB617
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\Users\\carlo\\eclipse-workspace\\test\\web\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\rest\\MemberResourceRESTService.java=1639664624859
+C\:\\Users\\carlo\\eclipse-workspace\\test\\web\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\rest\\JaxRsActivator.java=1639664624858
+C\:\\Users\\carlo\\eclipse-workspace\\test\\web\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\util\\WebResources.java=1639664624859
+C\:\\Users\\carlo\\eclipse-workspace\\test\\web\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\controller\\MemberController.java=1639664624857

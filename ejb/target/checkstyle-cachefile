@@ -1,0 +1,11 @@
+#Thu Dec 16 09:57:43 COT 2021
+configuration*?=8587579DF2506639FB839E1B140889AD1F4F7DC9
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\test\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\test\\MemberRegistrationIT.java=1639664624852
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\resources\\META-INF\\beans.xml=1639664624849
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\model\\Member.java=1639664624848
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\data\\MemberListProducer.java=1639664624847
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\util\\Resources.java=1639664624849
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\resources\\META-INF\\persistence.xml=1639664624850
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\service\\MemberRegistration.java=1639664624848
+C\:\\Users\\carlo\\eclipse-workspace\\test\\ejb\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink_ear\\data\\MemberRepository.java=1639664624847
